@@ -19,7 +19,7 @@
 <!-- <a href="https://instagram.com/saad_akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saad_akbar" height="30" width="40" /></a> -->
 <!-- <a href="https://www.youtube.com/c/saad akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saad akbar" height="30" width="40" /></a> -->
 <a href="https://codeforces.com/profile/shreyya38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saadakbar10" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shreyam3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saadakbar10" height="30" width="40" /></a>
+<!--<a href="https://www.leetcode.com/shreyam3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saadakbar10" height="30" width="40" /></a>
 <!-- <a href="https://www.codechef.com/users/saadblaze456" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saadblaze456" height="30" width="40" /></a> -->
 </p>
 
